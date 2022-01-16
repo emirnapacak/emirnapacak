@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emirnapacak
 - 👀 I’m interested in 
-- 🌱 I’m currently learning flutter, c and python.
+- 🌱 I’m currently learning dart(flutter), c and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
